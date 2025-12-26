@@ -1,6 +1,71 @@
+<!---
 ## About Me:
 - 👨🏻‍💻 I am an AWS Cloud Architect
 - 🎢 With over 10+ years of dedicated IT expertise, I bring a wealth of cloud experience coupled with strong analytical and technical leadership skills to the table.
 - 📚 Believes in continuous upskilling with new set of tools and technologies
 - ☁️ Passionate in explaining cloud computing and DevOps concepts
 - 📬 You could reach me on LinkedIn @ Srinivasan Chinnachamy
+-->
+<div id="header" align="Center">
+
+# 👋 Hi, I'm Srinivasan
+
+## ☁️🏗️ Cloud Architect | AWS | DevOps
+
+</div>
+
+## ![N|Solid](https://img.icons8.com/metro/2x/administrator-male.png) About Me:
+- 👨🏻‍💻 I am a **Cloud Architect**, Working with **PriceWaterhouseCoopers Acceleration Centers, Bengaluru, India** <br>
+- 🎢 With over 10 years of dedicated IT expertise, I bring a wealth of experience coupled with strong analytical and technical leadership skills to the table
+- 🎯 Specialized in building enterprise-scale cloud-native platforms and CI/CD automation
+- 📚 Believes in continuous upskilling with expanding expertise in Generative AI and Agentic AI technologies
+- 👨🏻‍🏫 Beyond my day-to-day responsibilities, I'm passionate about knowledge sharing. I've had the privilege of serving as a speaker, delivering tech talks on AWS User Groups and meet-ups
+- ✍️ Technical content creator and begin writing articles on blogging sites<br>
+        ↪ https://medium.com/@srinivasan.cloudarchitect<br>
+        ↪ https://dev.to/srinivasan-cloudarchitect<br>
+- 👷 Volunteer<br>
+        ↪ Active member of AWS User Group Bengaluru, AWS User Group Madurai(AWS UG Community)
+- 💬 Ask me anythig about AWS, Cloud Computing, Landing Zone Setup, Advanced Networking, CI/CD
+- 🙌 I look forward to connecting with like-minded professionals and exploring opportunities to contribute to transformative tech initiatives. Let's connect and engage in meaningful discussions about the future of technology and its impact on our world.
+- 📧 You can reach me at srinivasan.cloudarchitect@gmail.com or via LinkedIn @ [Srinivasan Chinnachamy](https://www.linkedin.com/in/srinivasan-aws/)
+
+## 📝 Read my insights: [Medium Blog](https://medium.com/@srinivasan.cloudarchitect)
+</div>
+
+### 🤖 AI
+
+- [From SDK to CLI: Making sense of Bedrock Namespaces and Avoiding CloudShell Pitfalls](https://medium.com/@srinivasan.cloudarchitect/from-sdk-to-cli-making-sense-of-bedrock-namespaces-and-avoiding-cloud-shell-pitfalls-b2b27e1fd1fc)
+
+- [From Prototype to Runtime: Operationalizing AI Agents on Amazon Bedrock AgentCore](https://medium.com/@srinivasan.cloudarchitect/from-code-to-invocation-operationalizing-ai-agents-with-amazon-bedrock-agentcore-a28416ba5a5e)
+
+- [Building SnakeXenzia with Amazon Q CLI](https://builder.aws.com/content/2xYAVfsSpjhyoFyamYLJ4yqlozN/building-snake-xenzia-with-amazon-q-cli)
+
+
+### 🌐 Networking
+
+- [AWS VPC Lattice: A Smarter Alternative to Transit Gateway and VPC Peering - Introduction](
+https://medium.com/@srinivasan.cloudarchitect/aws-vpc-lattice-a-smarter-alternative-to-transit-gateway-and-vpc-peering-part-1-74a268f3cb7b)
+
+- [AWS VPC Lattice: A Smarter Alternative to Transit Gateway and VPC Peering - DeepDive](
+https://medium.com/@srinivasan.cloudarchitect/aws-vpc-lattice-a-smarter-alternative-to-transit-gateway-and-vpc-peering-deepdive-89f2f1e3afeb)
+
+
+### ⚙️ AWS DevOps
+
+- [Creating an automated DevOps pipeline for AFT repositories in AWS](
+https://medium.com/@srinivasan.cloudarchitect/creating-an-automated-devops-pipeline-for-aft-repositories-in-aws-2ff73b609d31)
+
+
+## 📚 Certifications Acheived:  
+</div>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png" width="60px">  
+
+AWS Certified Machine Learning - Specialty
+
+## 📚 Certifications In Progress:  
+</div>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png" width="60px">  
+
+AWS Certified Machine Learning - Specialty
