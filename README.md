@@ -57,15 +57,13 @@ https://medium.com/@srinivasan.cloudarchitect/creating-an-automated-devops-pipel
 
 
 ## 📚 Certifications Acheived:  
+I'm 9x AWS Certified spanning from Foundational to Specialty domains
+<div align="left">
+    <img src="Completed certs.png" width="850px">  
 </div>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png" width="60px">  
-
-AWS Certified Machine Learning - Specialty
-
-## 📚 Certifications In Progress:  
+## 📚 Certifications In Progress: 
+Preparation under-way to deepen my expertise
+<div align="left">
+    <img src="InProgress-certs.png" width="450px">  
 </div>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png" width="60px">  
-
-AWS Certified Machine Learning - Specialty
