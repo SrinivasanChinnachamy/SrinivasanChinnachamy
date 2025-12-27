@@ -31,18 +31,29 @@
 
 ## Public Speaking Posts:
 
-Title: Speaker at AWS Student Community Day, South TN
+1. Title: Speaker at AWS Student Community Day, South TN
 
-Description: I am delighted to share that I was one of the speaker at AWS Student Community Day, South TN and gave a speech on  Mastering Multi-account Strategy with AWS Control Tower with more than 300+ participants and 10+ speakers in this event.
+Description: I am delighted to share that I was one of the speaker at AWS Student Community Day, South TN and gave a speech on  **Mastering Multi-account Strategy with AWS Control Tower** for more than 300+ participants and 10+ speakers in this event.
 
 Date: October 25, 2025 
 <div align="left">
-    <img src="./Images:PublicSpeaking/1.jpeg" width="450px">  
+    <img src="./Images/PublicSpeaking/a.jpeg" width="450px">  
 </div>
 
 <div align="left">
-    <img src="./Images:PublicSpeaking/3.jpeg" width="450px">  
+    <img src="./Images/PublicSpeaking/b.jpeg" width="450px">  
 </div>
+</br>
+
+2. Title: Speaker at Builders Skill Sprint - Networking edition - AWS User Group Madurai
+
+Description: Presented a virtual session on **AWS VPC Lattice: A Smarter Altnernative to Transit Gateway and VPC Peering** -deep dive into service networking across VPCs/accounts, estabalishing Zero trust communication with built-in security, Unified layer for discovery, routing and observability; Recordings are hosted on AWS UG MDU YouTube Channel
+
+Date: October 12, 2025 
+<div align="left">
+    <img src="./Images/PublicSpeaking/c.jpeg" width="450px">  
+</div>
+
 
 ## Direct links to latest posts:
 
@@ -76,11 +87,11 @@ https://medium.com/@srinivasan.cloudarchitect/creating-an-automated-devops-pipel
 ## 📚 Certifications Acheived:  
 I'm 9x AWS Certified spanning from Foundational to Specialty domains
 <div align="left">
-    <img src="Completed certs.png" width="850px">  
+    <img src="./Images/Certs/Completed certs.png" width="850px">  
 </div>
 
 ## 📚 Certifications In Progress: 
 Preparation under-way to deepen my expertise
 <div align="left">
-    <img src="InProgress-certs.png" width="450px">  
+    <img src="./Images/Certs/InProgress-certs.png" width="450px">  
 </div>
