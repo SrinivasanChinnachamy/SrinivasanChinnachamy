@@ -29,6 +29,23 @@
 - 🙌 I look forward to connecting with like-minded professionals and exploring opportunities to contribute to transformative tech initiatives. Let's connect and engage in meaningful discussions about the future of technology and its impact on our world.
 - 📧 You can reach me at srinivasan.cloudarchitect@gmail.com or via LinkedIn @ [Srinivasan Chinnachamy](https://www.linkedin.com/in/srinivasan-aws/)
 
+## Public Speaking Posts:
+
+Title: Speaker at AWS Student Community Day, South TN
+
+Description: I am delighted to share that I was one of the speaker at AWS Student Community Day, South TN and gave a speech on  Mastering Multi-account Strategy with AWS Control Tower with more than 300+ participants and 10+ speakers in this event.
+
+Date: October 25, 2025 
+<div align="left">
+    <img src="./Images:PublicSpeaking/1.jpeg" width="450px">  
+</div>
+
+<div align="left">
+    <img src="./Images:PublicSpeaking/3.jpeg" width="450px">  
+</div>
+
+## Direct links to latest posts:
+
 ## 📝 Read my insights: [Medium Blog](https://medium.com/@srinivasan.cloudarchitect)
 </div>
 
