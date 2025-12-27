@@ -8,7 +8,7 @@
 -->
 <div id="header" align="Center">
 
-# 👋 Hi, I'm Srinivasan
+# 👋 Hi, I'm Srinivasan Chinnachamy
 
 ## ☁️🏗️ Cloud Architect | AWS | DevOps
 
