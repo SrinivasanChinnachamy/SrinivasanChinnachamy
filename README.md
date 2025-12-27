@@ -53,9 +53,22 @@ Date: October 12, 2025
 <div align="left">
     <img src="./Images/PublicSpeaking/c.jpeg" width="450px">  
 </div>
+</br>
 
+3. Title: Winning Builders Card Hackathon at AI Loft Event, Bengaluru
 
-## Direct links to latest posts:
+Description: Lead the team on builders card Hackathon to develop the idea, build the solution architecture within the provided tight timelines, presented to Jury and won the 1st prize. This Hackathon award was presented by Ridhima Kapoor(AWS) and Siddesh Jog(AWS) and was a part of AWS AI Loft Event, Bengaluru
+
+Date: July 13, 2025 
+<div align="left">
+    <img src="./Images/PublicSpeaking/d.jpeg" width="450px">  
+</div>
+
+<div align="left">
+    <img src="./Images/PublicSpeaking/e.jpeg" width="450px">  
+</div>
+</br>
+
 
 ## 📝 Read my insights: [Medium Blog](https://medium.com/@srinivasan.cloudarchitect)
 </div>
