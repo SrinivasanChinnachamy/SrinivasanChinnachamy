@@ -74,8 +74,9 @@ Date: July 13, 2025
 </div>
 
 ### 🤖 AI
+- [From Reactive Firefighting to Intelligent Triage: The Rise of AWS DevOps Frontier Agent](https://medium.com/@srinivasan.cloudarchitect/from-reactive-firefighting-to-intelligent-triage-the-rise-of-aws-devops-frontier-agent-9055dc0248d7)
 
-- [From SDK to CLI: Making sense of Bedrock Namespaces and Avoiding CloudShell Pitfalls](https://medium.com/@srinivasan.cloudarchitect/from-sdk-to-cli-making-sense-of-bedrock-namespaces-and-avoiding-cloud-shell-pitfalls-b2b27e1fd1fc)
+- [From SDK to CLI: Making sense of Amazon Bedrock Namespaces and Avoiding CloudShell Pitfalls](https://medium.com/@srinivasan.cloudarchitect/from-sdk-to-cli-making-sense-of-bedrock-namespaces-and-avoiding-cloud-shell-pitfalls-b2b27e1fd1fc)
 
 - [From Prototype to Runtime: Operationalizing AI Agents on Amazon Bedrock AgentCore](https://medium.com/@srinivasan.cloudarchitect/from-code-to-invocation-operationalizing-ai-agents-with-amazon-bedrock-agentcore-a28416ba5a5e)
 
