@@ -29,15 +29,26 @@
 - 🙌 I look forward to connecting with like-minded professionals and exploring opportunities to contribute to transformative tech initiatives. Let's connect and engage in meaningful discussions about the future of technology and its impact on our world.
 - 📧 You can reach me at srinivasan.cloudarchitect@gmail.com or via LinkedIn @ [Srinivasan Chinnachamy](https://www.linkedin.com/in/srinivasan-aws/)
 
-## Public Speaking Posts:
 
-1. Title: Speaker at AWS Student Community Day, South TN, Organised by AWS Cloud Club
+# Public Speaking Posts:
 
-Description: I am delighted to share that I was one of the speaker at AWS Student Community Day, South TN and gave a speech on  **Mastering Multi-account Strategy with AWS Control Tower** for more than 300+ participants and 10+ speakers in this event.
+## 1. Speaker at AWS Student Community Day - South TN, Organised by AWS Cloud Club
+
+Speaker at AWS Student Community Day - South TN and delivered a presentation on  **Mastering Multi-account Strategy with AWS Control Tower** for more than 300+ student audience at PSNA College of Engineering and Technology, Dindigul. The Session focused on establishing scalable, secure, and compliant multi-account environments. It outlined how Control Tower, Account Factory, and Service Control Policies (SCPs) together streamline governance, automate provisioning, and maintain centralized visibility—empowering organizations to innovate with confidence while ensuring operational excellence.
+
+This event was organised by 
+ - AWS Cloud Club - Anna University Regional Campus Madurai
+ - AWS Cloud Club - PSNA College of Engineering and Technology, Dindigul
 
 Presentation Material: [Mastering Multi-account Strategy with AWS Control Tower(pdf)](knowledgebase/Mastering-Multi-Account-Strategy-with-AWS-Control-Tower.pdf)
 
-Date: October 25, 2025 
+Speaker Mention: [AWS Student Community Day - Speaker Bio](https://scd.awsugmdu.in/#speakers)
+
+LinkedIn Official event handle mention: 
+ - [AWS AURCM Cloud Club](https://www.linkedin.com/posts/awscloudclubaurcm_aws-awsstudentcommunityday-awsdevelopers-activity-7389518953934483456-UxIA?utm_source=share&utm_medium=member_desktop&rcm=ACoAABArIgABKc0_7JuDJ91CEK9Ovgws7vRwgvE)
+ - [AWS PSNA Cloud Club](https://www.linkedin.com/posts/psna-aws-cloud-club_aws-awscloudclubs-studentsaws-activity-7389851109814587392--SPb?utm_source=share&utm_medium=member_desktop&rcm=ACoAABArIgABKc0_7JuDJ91CEK9Ovgws7vRwgvE)
+
+
 <div align="left">
     <img src="./Images/PublicSpeaking/a.jpeg" width="450px">  
 </div>
@@ -47,15 +58,20 @@ Date: October 25, 2025
 </div>
 </br>
 
-2. Title: Speaker at Builders Skill Sprint - Networking edition, Organised by AWS User Group Madurai
+## 2. Speaker at Builders Skill Sprint - Networking edition, Organised by AWS User Group Madurai
 
-Description: Presented a virtual session on **AWS VPC Lattice: A Smarter Altnernative to Transit Gateway and VPC Peering** -deep dive into service networking across VPCs/accounts, estabalishing Zero trust communication with built-in security, Unified layer for discovery, routing and observability; Recordings are hosted on AWS UG MDU YouTube Channel
+Speaker at Builders Skill Sprint - Networking edition and delivered a virtual presentation on **AWS VPC Lattice: A Smarter Altnernative to Transit Gateway and VPC Peering** This session focussed on finding alternatives to traditional networking setup, service networking across VPCs/accounts, estabalishing Zero trust communication with built-in security, Unified layer for discovery, routing and observability. Session Recordings are hosted on AWS User Group-Madurai YouTube Channel
 
 Presentation Material: [AWS VPC Lattice: A Smarter Altnernative to Transit Gateway and VPC Peering(pdf)](knowledgebase/VPC-Lattice-Smarter-Alternative-to-TransitGateway-and-VPCPeering.pdf)
 
-Youtube Recordings: [VPC-lattice-AWS-UG-MDU-channel](https://www.youtube.com/watch?v=hy_1FrItHMc&t=4710s)
+Youtube Recordings: [AWS User Group Madurai-Builders Sprint - YouTube Channel](https://www.youtube.com/watch?v=hy_1FrItHMc&t=4710s)
 
-Date: October 12, 2025 
+LinkedIn Official event handle mention: [AWS User Group Madurai-Builders Sprint](https://www.linkedin.com/posts/awsugmdu_builders-skill-sprint-networking-month-activity-7382988519687958528-ey_k?utm_source=share&utm_medium=member_desktop&rcm=ACoAABArIgABKc0_7JuDJ91CEK9Ovgws7vRwgvE)
+ 
+<div align="left">
+    <img src="./Images/PublicSpeaking/f.png" width="450px">  
+</div>
+</br>
 
 <div align="left">
     <img src="./Images/PublicSpeaking/c.jpeg" width="450px">  
