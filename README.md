@@ -31,9 +31,11 @@
 
 ## Public Speaking Posts:
 
-1. Title: Speaker at AWS Student Community Day, South TN
+1. Title: Speaker at AWS Student Community Day, South TN, Organised by AWS Cloud Club
 
 Description: I am delighted to share that I was one of the speaker at AWS Student Community Day, South TN and gave a speech on  **Mastering Multi-account Strategy with AWS Control Tower** for more than 300+ participants and 10+ speakers in this event.
+
+Presentation Material: [Mastering Multi-account Strategy with AWS Control Tower(pdf)](knowledgebase/Mastering-Multi-Account-Strategy-with-AWS-Control-Tower.pdf)
 
 Date: October 25, 2025 
 <div align="left">
@@ -45,11 +47,16 @@ Date: October 25, 2025
 </div>
 </br>
 
-2. Title: Speaker at Builders Skill Sprint - Networking edition - AWS User Group Madurai
+2. Title: Speaker at Builders Skill Sprint - Networking edition, Organised by AWS User Group Madurai
 
 Description: Presented a virtual session on **AWS VPC Lattice: A Smarter Altnernative to Transit Gateway and VPC Peering** -deep dive into service networking across VPCs/accounts, estabalishing Zero trust communication with built-in security, Unified layer for discovery, routing and observability; Recordings are hosted on AWS UG MDU YouTube Channel
 
+Presentation Material: [AWS VPC Lattice: A Smarter Altnernative to Transit Gateway and VPC Peering(pdf)](knowledgebase/VPC-Lattice-Smarter-Alternative-to-TransitGateway-and-VPCPeering.pdf)
+
+Youtube Recordings: [VPC-lattice-AWS-UG-MDU-channel](https://www.youtube.com/watch?v=hy_1FrItHMc&t=4710s)
+
 Date: October 12, 2025 
+
 <div align="left">
     <img src="./Images/PublicSpeaking/c.jpeg" width="450px">  
 </div>
