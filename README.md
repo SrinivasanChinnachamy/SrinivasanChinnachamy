@@ -22,10 +22,11 @@
 - 🎯 Specialized in building enterprise-scale cloud-native platforms and CI/CD automation
 - 📚 Believes in continuous upskilling with expanding expertise in Generative AI and Agentic AI technologies
 - 👨🏻‍🏫 Beyond my day-to-day responsibilities, I'm passionate about knowledge sharing. I've had the privilege of serving as a speaker, delivering tech talks on AWS User Groups and meet-ups
-- ✍️ Technical content creator and begin writing articles on blogging sites `<br>`
-  ↪ https://medium.com/@srinivasan.cloudarchitect `<br>`
-- 👷 Volunteer `<br>`
-  ↪ Active member of AWS User Group Bengaluru, AWS User Group Madurai(AWS UG Community)
+- ✍️ Technical content creator and begin writing articles on Medium blogging site </br>
+  ↪ https://medium.com/@srinivasan.cloudarchitect
+- 👷 Volunteer </br>
+  ↪ Active member of AWS User Group Bengaluru, </br>
+  ↪ Active member of AWS User Group Madurai
 - 💬 Ask me anythig about AWS, Cloud Computing, Landing Zone Setup, Advanced Networking, CI/CD
 - 🙌 I look forward to connecting with like-minded professionals and exploring opportunities to contribute to transformative tech initiatives. Let's connect and engage in meaningful discussions about the future of technology and its impact on our world.
 - 📧 You can reach me at srinivasan.cloudarchitect@gmail.com or via LinkedIn @ [Srinivasan Chinnachamy](https://www.linkedin.com/in/srinivasan-aws/)
@@ -134,13 +135,7 @@ Date: 13-July-2025
 
 - [AWS Transform Custom ATX: Modernizing AWS CDK to Terraform](https://medium.com/@srinivasan.cloudarchitect/aws-transform-custom-atx-modernizing-aws-cdk-to-terraform-75f7f4ea012a)
 - [From Reactive Firefighting to Intelligent Triage: The Rise of AWS DevOps Frontier Agent](https://medium.com/@srinivasan.cloudarchitect/from-reactive-firefighting-to-intelligent-triage-the-rise-of-aws-devops-frontier-agent-9055dc0248d7)
-<<<<<<< HEAD
-
 - [Scaling Enterprise Security Reviews with AI: From Architecture to Pull Requests](https://medium.com/@srinivasan.cloudarchitect/scaling-enterprise-security-reviews-with-ai-from-architecture-to-pull-requests-9a6ff064b626)
-
-=======
-- [Scaling Enterprise Security Reviews with AI: From Architecture to Pull Requests](https://medium.com/aws-in-plain-english/scaling-enterprise-security-reviews-with-ai-from-architecture-to-pull-requests-9a6ff064b626)
->>>>>>> dc9f363 (Readme udpated)
 - [From SDK to CLI: Making sense of Amazon Bedrock Namespaces and Avoiding CloudShell Pitfalls](https://medium.com/@srinivasan.cloudarchitect/from-sdk-to-cli-making-sense-of-bedrock-namespaces-and-avoiding-cloud-shell-pitfalls-b2b27e1fd1fc)
 - [From Prototype to Runtime: Operationalizing AI Agents on Amazon Bedrock AgentCore](https://medium.com/@srinivasan.cloudarchitect/from-code-to-invocation-operationalizing-ai-agents-with-amazon-bedrock-agentcore-a28416ba5a5e)
 - [Building SnakeXenzia with Amazon Q CLI](https://builder.aws.com/content/2xYAVfsSpjhyoFyamYLJ4yqlozN/building-snake-xenzia-with-amazon-q-cli)
@@ -156,7 +151,7 @@ Date: 13-July-2025
 
 ## 📚 Certifications Acheived:
 
-I'm 9x AWS Certified spanning from Foundational to Specialty domains
+I'm 9x AWS Certified spanning from Foundational to Specialty domains.
 
 <div align="left">
     <img src="./Images/Certs/Completed certs.png" width="850px">  
