@@ -133,6 +133,7 @@ Date: 13-July-2025
 
 ### 🤖 AI
 
+- [Kiro Power for Terraform: Making Golden Paths the Default](https://medium.com/@srinivasan.cloudarchitect/kiro-power-for-terraform-making-golden-paths-the-default-a74b853cee70))
 - [AWS Transform Custom ATX: Modernizing AWS CDK to Terraform](https://medium.com/@srinivasan.cloudarchitect/aws-transform-custom-atx-modernizing-aws-cdk-to-terraform-75f7f4ea012a)
 - [From Reactive Firefighting to Intelligent Triage: The Rise of AWS DevOps Frontier Agent](https://medium.com/@srinivasan.cloudarchitect/from-reactive-firefighting-to-intelligent-triage-the-rise-of-aws-devops-frontier-agent-9055dc0248d7)
 - [Scaling Enterprise Security Reviews with AI: From Architecture to Pull Requests](https://medium.com/@srinivasan.cloudarchitect/scaling-enterprise-security-reviews-with-ai-from-architecture-to-pull-requests-9a6ff064b626)
