@@ -35,11 +35,13 @@
 
 ## 1. Speaker at Builders Skill Sprint - DevOps edition, Organised by AWS User Group Madurai 
 
-Speaker at Builders Skill Sprint - DevOps edition and delivered a technical session with hands-on demonstration on **Building Private MCP Servers on AWS Integrating Custom Capabilities with AWS DevOps Agent** This session focussed on transitioning from manual debugging to AI-agent-assisted workflows with AWS DevOps Agent, registering private MCP servers with AWS DevOps Agent using Lambda and VPC Endpoints across both public and private networking setups. The kind of stuff that moves you from understanding AI to actually shipping. Session Recordings are hosted on AWS User Group-Madurai YouTube Channel
+Speaker at Builders Skill Sprint - DevOps edition and delivered a technical session with hands-on demonstration on **Building Private MCP Servers on AWS Integrating Custom Capabilities with AWS DevOps Agent.**This session focussed on transitioning from manual debugging to AI-agent-assisted workflows with AWS DevOps Agent, registering private MCP servers with AWS DevOps Agent using Lambda and VPC Endpoints across both public and private networking setups. The kind of stuff that moves you from understanding AI to actually shipping. Session Recordings are hosted on AWS User Group-Madurai YouTube Channel
 
 Date: 24-May-2026.
 
 Presentation Material: [Building Private MCP Servers on AWS Integrating Custom Capabilities with AWS DevOps Agent-Slides](https://www.scribd.com/presentation/1045102963/Building-Private-MCP-Servers-on-AWS-Integrating-Custom-Capabilities-with-AWS-DevOps-Agent)
+
+Youtube Recordings: [AWS User Group Madurai-Builders Sprint - YouTube Channel]([https://www.youtube.com/watch?v=hy_1FrItHMc&t=4710](https://www.youtube.com/watch?v=rmUl9N6rLpI&t=4040s)
 
 Speaker Mention: [Builders Skill Sprint - DevOps edition - Speakers](https://www.linkedin.com/posts/awsugmdu_aws-awsugmadurai-buildersskillsprint-activity-7463083917345071104-9CX7?utm_source=share&utm_medium=member_desktop&rcm=ACoAABArIgABKc0_7JuDJ91CEK9Ovgws7vRwgvE) 
 
