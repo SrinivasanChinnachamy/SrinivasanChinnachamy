@@ -183,7 +183,7 @@ Date: 13-July-2025
 
 ## 📚 Certifications Acheived:
 
-I'm 9x AWS Certified spanning from Foundational to Specialty domains.
+I'm 10x AWS Certified spanning from Foundational to Specialty domains.
 
 <div align="left">
     <img src="./Images/Certs/latest-certs-may.png" width="850px">  
