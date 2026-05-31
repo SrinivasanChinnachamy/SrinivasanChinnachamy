@@ -102,7 +102,7 @@ This event was organised by
 
 Date: 25-October-2025
 
-Presentation Material: [Mastering Multi-account Strategy with AWS Control Tower(pdf)](knowledgebase/Mastering-Multi-Account-Strategy-with-AWS-Control-Tower.pdf)
+Presentation Material: [Mastering Multi-account Strategy with AWS Control Tower](https://www.scribd.com/document/1045090498/Mastering-Multi-Account-Strategy-with-AWS-Control-Tower)
 
 Speaker Mention: [AWS Student Community Day - Speaker Bio](https://scd.awsugmdu.in/#speakers)
 
@@ -127,7 +127,7 @@ Speaker at Builders Skill Sprint - Networking edition and delivered a technical 
 
 Date: 12-October-2025
 
-Presentation Material: [AWS VPC Lattice: A Smarter Altnernative to Transit Gateway and VPC Peering(pdf)](knowledgebase/VPC-Lattice-Smarter-Alternative-to-TransitGateway-and-VPCPeering.pdf)
+Presentation Material: [AWS VPC Lattice: A Smarter Altnernative to Transit Gateway and VPC Peering](https://www.scribd.com/document/1045097317/VPC-Lattice-Smarter-Alternative-to-Transit-Gateway-and-VPC-Peering)
 
 Youtube Recordings: [AWS User Group Madurai-Builders Sprint - YouTube Channel](https://www.youtube.com/watch?v=hy_1FrItHMc&t=4710s)
 
