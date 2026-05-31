@@ -186,7 +186,7 @@ Date: 13-July-2025
 I'm 9x AWS Certified spanning from Foundational to Specialty domains.
 
 <div align="left">
-    <img src="./Images/Certs/Completed certs.png" width="850px">  
+    <img src="./Images/Certs/latest-certs-may.png" width="850px">  
 </div>
 
 ## 📚 Certifications In Progress:
