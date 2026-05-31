@@ -33,7 +33,36 @@
 
 # Public Speaking Posts:
 
-## 1. Speaker at AWS re:Invent ReCap and Kiro Night, organised by AWS User Group Madurai
+## 1. Speaker at Builders Skill Sprint - DevOps edition, Organised by AWS User Group Madurai 
+
+Speaker at Builders Skill Sprint - DevOps edition and delivered a technical session with hands-on demonstration on **Building Private MCP Servers on AWS Integrating Custom Capabilities with AWS DevOps Agent** This session focussed on transitioning from manual debugging to AI-agent-assisted workflows with AWS DevOps Agent, registering private MCP servers with AWS DevOps Agent using Lambda and VPC Endpoints across both public and private networking setups. The kind of stuff that moves you from understanding AI to actually shipping. Session Recordings are hosted on AWS User Group-Madurai YouTube Channel
+
+Date: 24-May-2026.
+
+Presentation Material: [Building Private MCP Servers on AWS Integrating Custom Capabilities with AWS DevOps Agent-Slides](https://www.scribd.com/presentation/1045102963/Building-Private-MCP-Servers-on-AWS-Integrating-Custom-Capabilities-with-AWS-DevOps-Agent)
+
+Speaker Mention: [Builders Skill Sprint - DevOps edition - Speakers](https://www.linkedin.com/posts/awsugmdu_aws-awsugmadurai-buildersskillsprint-activity-7463083917345071104-9CX7?utm_source=share&utm_medium=member_desktop&rcm=ACoAABArIgABKc0_7JuDJ91CEK9Ovgws7vRwgvE) 
+
+AWS UserGroup Madurai WebSite handle mention: [Builders Skill Sprint - DevOps edition](https://www.awsugmdu.in/meetups)
+
+LinkedIn Official Event handle mention: [Builders Skill Sprint - DevOps edition](https://www.linkedin.com/posts/awsugmdu_awsugmadurai-awsusergroups-buildersskillsprint-activity-7466091866044948480-PXj5?utm_source=share&utm_medium=member_desktop&rcm=ACoAABArIgABKc0_7JuDJ91CEK9Ovgws7vRwgvE)
+
+<div align="left">
+    <img src="./Images/PublicSpeaking/mdu-1.jpeg" width="450px">  
+</div>
+</br>
+
+<div align="left">
+    <img src="./Images/PublicSpeaking/mdu-2.jpeg" width="450px">  
+</div>
+</br>
+
+<div align="left">
+    <img src="./Images/PublicSpeaking/mdu-3.jpeg" width="450px">  
+</div>
+</br>
+
+## 2. Speaker at AWS re:Invent ReCap and Kiro Night, organised by AWS User Group Madurai
 
 Speaker at AWS User Group Madurai and delivered a session on AWS re:Invent Recap and Kiro Night. The primary objective is to provide a concise yet comprehensive readout of announcements, where each segment highlights meaningful upgrades across the AWS landscape. Also provided a walkthrough of using KIRO IDE with hooks, steering group, MCP's for members of the AWS User Group Madurai.
 
@@ -60,7 +89,7 @@ LinkedIn Official Event handle mention: [AWS UserGroup Madurai - re:Invent Recap
 </div>
 </br>
 
-## 2. Speaker at AWS Student Community Day - South TN, Organised by AWS Cloud Club
+## 3. Speaker at AWS Student Community Day - South TN, Organised by AWS Cloud Club
 
 Speaker at AWS Student Community Day - South TN and delivered a presentation on  **Mastering Multi-account Strategy with AWS Control Tower** for more than 300+ student audience at PSNA College of Engineering and Technology, Dindigul. The Session focused on establishing scalable, secure, and compliant multi-account environments. It outlined how Control Tower, Account Factory, and Service Control Policies (SCPs) together streamline governance, automate provisioning, and maintain centralized visibility—empowering organizations to innovate with confidence while ensuring operational excellence.
 
@@ -90,9 +119,9 @@ LinkedIn Official event handle mention:
 </div>
 </br>
 
-## 3. Speaker at Builders Skill Sprint - Networking edition, Organised by AWS User Group Madurai
+## 4. Speaker at Builders Skill Sprint - Networking edition, Organised by AWS User Group Madurai
 
-Speaker at Builders Skill Sprint - Networking edition and delivered a virtual presentation on **AWS VPC Lattice: A Smarter Altnernative to Transit Gateway and VPC Peering** This session focussed on finding alternatives to traditional networking setup, service networking across VPCs/accounts, estabalishing Zero trust communication with built-in security, Unified layer for discovery, routing and observability. Session Recordings are hosted on AWS User Group-Madurai YouTube Channel
+Speaker at Builders Skill Sprint - Networking edition and delivered a technical session with hands-on demonstration on **AWS VPC Lattice: A Smarter Altnernative to Transit Gateway and VPC Peering** This session focussed on finding alternatives to traditional networking setup, service networking across VPCs/accounts, estabalishing Zero trust communication with built-in security, Unified layer for discovery, routing and observability. Session Recordings are hosted on AWS User Group-Madurai YouTube Channel
 
 Date: 12-October-2025
 
@@ -112,7 +141,7 @@ LinkedIn Official event handle mention: [AWS User Group Madurai-Builders Sprint]
 </div>
 </br>
 
-## 4. Title: Winning Builders Card Hackathon at AI Loft Event, Bengaluru
+## 5. Title: Winning Builders Card Hackathon at AI Loft Event, Bengaluru
 
 Description: Lead the team on builders card Hackathon to develop the idea, build the solution architecture within the provided tight timelines, presented to Jury and won the 1st prize. This Hackathon award was presented by Ridhima Kapoor(AWS) and Siddesh Jog(AWS) and was a part of AWS AI Loft Event, Bengaluru
 
