@@ -50,17 +50,17 @@ AWS UserGroup Madurai WebSite handle mention: [Builders Skill Sprint - DevOps ed
 LinkedIn Official Event handle mention: [Builders Skill Sprint - DevOps edition](https://www.linkedin.com/posts/awsugmdu_awsugmadurai-awsusergroups-buildersskillsprint-activity-7466091866044948480-PXj5?utm_source=share&utm_medium=member_desktop&rcm=ACoAABArIgABKc0_7JuDJ91CEK9Ovgws7vRwgvE)
 
 <div align="left">
-    <img src="./Images/PublicSpeaking/mdu-1.jpeg" width="450px">  
+    <img src="./Images/PublicSpeaking/g.jpeg" width="450px">  
 </div>
 </br>
 
 <div align="left">
-    <img src="./Images/PublicSpeaking/mdu-2.jpeg" width="450px">  
+    <img src="./Images/PublicSpeaking/h.jpeg" width="450px">  
 </div>
 </br>
 
 <div align="left">
-    <img src="./Images/PublicSpeaking/mdu-3.jpeg" width="450px">  
+    <img src="./Images/PublicSpeaking/i.jpeg" width="450px">  
 </div>
 </br>
 
